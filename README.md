@@ -1,2 +1,2 @@
-# My-Resume
-Resume 
+# Resume and Notes for studies
+
